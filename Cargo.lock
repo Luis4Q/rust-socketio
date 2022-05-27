@@ -2190,9 +2190,9 @@ dependencies = [
 
 [[package]]
 name = "websocket"
-version = "0.26.2"
+version = "0.26.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "723abe6b75286edc51d8ecabb38a2353f62a9e9b0588998b59111474f1dcd637"
+checksum = "d0e2836502b48713d4e391e7e016df529d46e269878fe5d961b15a1fd6417f1a"
 dependencies = [
  "hyper 0.10.16",
  "native-tls",
